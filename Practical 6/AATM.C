@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    // Ayush kumar_10343
+    // Ayush kumar_10341
     int correctPIN = 1234;
     int enteredPIN;
     int attempts = 3;
