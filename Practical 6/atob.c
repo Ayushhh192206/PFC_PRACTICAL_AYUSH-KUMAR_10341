@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    //Ayush kumar_10341
+    //Ayush kumar_10343
     int A, B;
     printf("Enter the value of A: ");
     scanf("%d", &A);
