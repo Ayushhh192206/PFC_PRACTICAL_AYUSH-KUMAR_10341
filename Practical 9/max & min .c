@@ -3,7 +3,7 @@
 int main() {
     int n, i;
     int arr[100];
-    int max, min;
+   int max , min;
 
     printf("Enter number of elements: ");
     scanf("%d", &n);
@@ -28,7 +28,7 @@ int main() {
     return 0;
 }
 
-// output
+// output for this
 // Enter number of elements: 6
 // Enter array elements:
 // 12 45 7 89 23 4
